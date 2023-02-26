@@ -373,7 +373,7 @@ button > img {
  }
 
  .container1{
-  position: relative;
+  position: sticky;
   width: 1100px;
   display: flex;
   justify-content: center;
@@ -381,7 +381,7 @@ button > img {
   flex-wrap: wrap;
   padding: 30px;
   margin-left: 138px;
-  margin-top: -180px;
+  margin-top: -110px;
  }
 
  .container1 .card{
@@ -438,7 +438,7 @@ button > img {
  }
 
  .container {
-  position: relative;
+  position: sticky;
   display: flex;
   justify-content: center;
   align-items: center;
